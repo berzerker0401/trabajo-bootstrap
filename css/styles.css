@@ -1,0 +1,95 @@
+/*
+Andres Felipe Padilla
+*/
+
+body {
+ 	padding-top:50px;
+}
+
+.navbar {
+	background: #3B658A;
+}
+
+.navbar .navbar-brand {
+	color: #fff;
+}
+
+.navbar-toggle {
+	background: #3B658A;
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+}
+.peliculas {
+	color: #fff;
+	background: #A7C06A
+}
+
+.peliculas:hover {
+	background: #C0D098;
+}
+
+.hosting {
+	background: #E09532;
+}
+
+.hosting:hover {
+	background: #E4AF69;
+}
+
+.dominios {
+	background: #A732E0;
+}
+
+.dominios:hover {
+	background: #BC83D8
+}
+
+footer {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    bottom: 0;
+    left: 0;
+    background: #3B658A;
+    margin-top: 50px;
+    padding: 25px 50px;
+}
+footer adress {
+    position: relative;
+    color: #eee;
+    text-align:center;
+}
+
+footer adress h4 small {
+    color: #eee;
+}
+
+.social {
+	position: relative;
+	text-align: center;
+}
+
+.serie-body {
+	padding-top: 70px;
+	height: auto
+}
+
+.info-serie {
+	margin-top:  20px
+}
+
+.caja {
+	border: 1px #ddd solid;
+}
+
+.temporada {
+	padding:  0;
+	border:  1px #ddd solid;
+}
+
+.video {
+	margin-top: 60px
+}
